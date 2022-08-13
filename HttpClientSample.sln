@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientSample", "HttpClientSample\HttpClientSample.csproj", "{D0C3E687-401F-4A2A-8007-136D22FA62CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorize", "Authorize\Authorize.csproj", "{891723B5-267C-475A-98CD-655793903378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C3E687-401F-4A2A-8007-136D22FA62CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C3E687-401F-4A2A-8007-136D22FA62CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C3E687-401F-4A2A-8007-136D22FA62CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C3E687-401F-4A2A-8007-136D22FA62CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891723B5-267C-475A-98CD-655793903378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891723B5-267C-475A-98CD-655793903378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891723B5-267C-475A-98CD-655793903378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891723B5-267C-475A-98CD-655793903378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A2217EF-2E7C-4BA5-AB4A-2ADC08D98C23}
+	EndGlobalSection
+EndGlobal
